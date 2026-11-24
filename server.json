@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.sevana-ou/voice-quality",
+  "description": "Voice and VoIP call-quality analysis for AI agents: non-intrusive MOS (PVQA), intrusive MOS vs a reference (AQuA), and full PCAP/RTP/SIP call analysis (Pcaptix engine). Free tier, no sign-up.",
+  "repository": {
+    "url": "https://github.com/sevana-ou/voice-quality-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "websiteUrl": "https://sevana.biz/mcp-server-voice-quality-ai-agents/",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.sevana.biz/mcp"
+    }
+  ]
+}

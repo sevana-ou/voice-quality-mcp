@@ -1,5 +1,7 @@
 # Sevana Voice Quality MCP Server
 
+[![Glama MCP server](https://glama.ai/mcp/servers/sevana-ou/voice-quality-mcp/badges/score.svg)](https://glama.ai/mcp/servers/sevana-ou/voice-quality-mcp)
+
 **Remote [MCP](https://modelcontextprotocol.io) server for voice and VoIP call‑quality analysis.**
 Let AI agents measure speech quality, score MOS, and analyze packet captures — over the
 Model Context Protocol, with no local install.
